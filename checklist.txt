@@ -1,0 +1,9 @@
+  checklist documentare
+  
+  interfata
+  consultare api
+  schema bazei de date
+  descrierea functionalitati
+  comportamentul utilizatorului
+  studiezi aplicatii similare
+  feedback utilizator
